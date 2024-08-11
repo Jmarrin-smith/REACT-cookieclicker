@@ -14,14 +14,13 @@ body {
 .upgradebox {
   margin: auto;
   display: flex;
-  height: 1000px;
-  width: 1000px;
+  height: 800px;
+  width: 330px;
   flex-wrap: wrap;
   flex-direction: column;
   justify-content: space-evenly;
 }
 
-.upgrade {
-  height: 200px;
-  width: 400px;
+.upgrade p {
+  font-size: smaller;
 }
